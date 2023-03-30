@@ -1,18 +1,13 @@
-# RFM, KMeans, and Cohort Analysis for Customer Segmentation and Retention Analysis
+# RFM, KMeans, and Cohort Analysis for Customer Segmentation and Retention
 
 This repository contains two Jupyter notebooks that demonstrate how to implement customer segmentation and retention strategies using RFM analysis and KMeans clustering, and cohort analysis. The notebooks are based on a publicly available e-commerce dataset and include detailed explanations of the data preprocessing, analysis, and visualization steps.
 
 ## Table of Contents
-
-•	Introduction
-
-•	Requirements
-
-•	Notebook Descriptions
-
-•	Instructions
-
-•	Contributing
+-	Introduction
+-	Requirements
+-	Notebook Descriptions
+-	Instructions
+-	Contributing
 
 
 ## Introduction
@@ -22,13 +17,14 @@ The second notebook, Customer_Retention_with_Cohort_Analysis.ipynb, shows how to
 
 ## Requirements
 To run these notebooks, you will need the following libraries:
-•	pandas
-•	numpy
-•	scipy
-•	seaborn
-•	matplotlib
-•	sklearn
-•	plotly
+-	pandas
+-	numpy
+-	scipy
+-	seaborn
+-	matplotlib
+-	sklearn
+-	plotly
+
 You can install these libraries using pip:
 pip install pandas numpy scipy seaborn matplotlib scikit-learn plotly 
 
